@@ -7,7 +7,11 @@ interface AuthGuardProps {
 }
 
 // CAMBIA ESTA CONTRASEña por una segura
-const ADMIN_PASSWORD = 'admin123'
+///const ADMIN_PASSWORD = 'admin123'
+const ADMIN_PASSWORD = process.env.NEXT_PUBLIC_ADMIN_PASSWORD
+if (!ADMIN_PASSWORD) {
+  throw new Error('NEXT_PUBLIC_ADMIN_PASSWORD no está configurada')
+}
 
 export default function AuthGuard({ children }: AuthGuardProps) {
   const [isAuthenticated, setIsAuthenticated] = useState(false)
