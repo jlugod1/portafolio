@@ -20,7 +20,7 @@ export default function Projects() {
       features: ['Geolocalización de profesionales', 'Sistema de citas online', 'Panel administrativo completo', 'Enfoque en accesibilidad'],
       link: '#',
       github: 'https://github.com/tu-usuario/amintegral',
-      image: '/proyectos/AMI.png'
+      image: '/proyectos/ami.png'
     },
     {
       title: 'Sistema de Recursos Humanos',
