@@ -20,7 +20,7 @@ export default function Projects() {
       features: ['Geolocalización de profesionales', 'Sistema de citas online', 'Panel administrativo completo', 'Enfoque en accesibilidad'],
       link: '#',
       github: 'https://github.com/tu-usuario/amintegral',
-      image: '/proyectos/amintegral.jpg'
+      image: '/proyectos/AMI.png'
     },
     {
       title: 'Sistema de Recursos Humanos',
@@ -28,8 +28,8 @@ export default function Projects() {
       technologies: ['Spring Boot', 'React', 'MySQL', 'Chart.js', 'Material-UI'],
       features: ['Gestión completa de empleados', 'Control de asistencia biométrico', 'Generación de nóminas', 'Dashboard con métricas'],
       link: '#',
-      github: 'https://github.com/tu-usuario/recursos-humanos',
-      image: '/proyectos/recursos-humanos.jpg'
+      github: 'https://github.com/jlugod1/Proyecto-Recursos-Humanos',
+      image: '/proyectos/rh.png'
     }
   ]
 

@@ -7,10 +7,10 @@ export default function About() {
             <h2 className="text-4xl font-bold text-balance mb-6">Sobre mí</h2>
             <div className="space-y-4 text-foreground leading-relaxed">
               <p>
-                Soy un Desarrollador Full Stack certificado por Coding Dojo con especialización en Java, Spring Boot y MySQL. Mi pasión es resolver problemas complejos, aprender constantemente y colaborar en equipos multidisciplinarios para crear soluciones innovadoras.
+                Soy un Desarrollador Full Stack certificado por Coding Dojo con especialización en Java, Spring Boot y MySQL. Me gusta resolver problemas complejos, aprender constantemente y colaborar en equipos multidisciplinarios para crear soluciones innovadoras.
               </p>
               <p>
-                Con experiencia en desarrollo colaborativo usando metodologías ágiles (Scrum), he trabajado en plataformas financieras y de salud que impactan a usuarios reales. Mi enfoque combina buenas prácticas de código, arquitectura escalable y atención al detalle.
+                Con experiencia en desarrollo colaborativo, he trabajado en plataformas financieras y de salud. Mi enfoque combina buenas prácticas de código, arquitectura escalable y atención al detalle.
               </p>
               <p>
                 Fuera del código, me dedico a la calistenia y al crecimiento personal, siempre buscando nuevos desafíos que me permitan expandir mis habilidades técnicas y liderar iniciativas de impacto.

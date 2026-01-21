@@ -29,7 +29,7 @@ export default function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/jos%C3%A9-martin-lugo-pacheco-62a455339/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-all duration-200 hover:shadow-lg"
@@ -38,7 +38,7 @@ export default function Hero() {
               LinkedIn
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/jlugod1"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 border-2 border-primary text-primary px-6 py-3 rounded-lg font-semibold hover:bg-primary/10 transition-all duration-200"
